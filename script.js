@@ -309,7 +309,7 @@ firstWord.addEventListener("click", (event) => {
   });
 });
 
-let sortCount = 0
+let sortCount = 1
 
 aToZ.addEventListener('click', event=>{
 
