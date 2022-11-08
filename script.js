@@ -283,7 +283,7 @@ firstWord.addEventListener("click", (event) => {
 
     countryDisplay.innerHTML = " ";
     if (list.length < 193) {
-      dynamicText.innerHTML += 'Countries containing'
+      dynamicText.innerHTML += 'Countries starting with'
       dynamicText.appendChild(anyWordTarget)
       dynamicText.innerHTML += 'are'
       dynamicText.appendChild(listLength)
